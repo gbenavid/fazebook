@@ -1,0 +1,9 @@
+body{
+	background-color: teal;
+}
+.topMenu{
+	display: inline;
+}
+#main{
+	background-color: orange;
+}
